@@ -1,24 +1,41 @@
 # Reports
 
-A public repository for report-style documents and update summaries.
+Finished report-style documents and research summaries.
 
-## Purpose
+## What Belongs Here
 
-This repo is for time-based or research-style reports, especially items that are meant to be read as finished report outputs.
+Use this repo for documents intended to be read as finished outputs.
 
-## Current Contents
+Examples:
 
-- Azure monthly update reports
-- Microsoft 365 monthly update reports
+- monthly update reports
+- research summaries
+- executive briefings
+- periodic technology roundups
 
 ## Related Repositories
 
 ### Planning Docs
-Architecture, planning, and implementation guides live here:
+Planning, architecture, and implementation guides:
 
 - <https://github.com/lukeclawbot/planning-docs>
 
+### Scratchpad
+Drafts and rough working documents:
+
+- <https://github.com/lukeclawbot/scratchpad>
+
 ### Luke's Work
-General workspace materials live here:
+General workspace materials:
 
 - <https://github.com/lukeclawbot/lukes-work>
+
+## File Naming
+
+Recommended pattern:
+
+- `<topic>-<time-window>-<yyyy-mm>.md`
+
+Example:
+
+- `azure-updates-last-30-days-2026-03.md`
